@@ -18,6 +18,8 @@ This processor handles:
 * **Processing logic** (based on your program)
 * **Controlling outputs** (like LEDs, motors, or displays)
 
+  ![image alt](https://github.com/harishj123/RISC-V_Soc_Tape_out_week_6/blob/main/Week_6/images/processor.jpg?raw=true)
+
 ---
 
 ### 💡 Inside the Processor: Chip and Package
@@ -25,6 +27,8 @@ This processor handles:
 At the heart of every processor is a **chip** — a small piece of **silicon** that contains millions of transistors connected to perform logical operations.
 
 The **chip** is enclosed in a **package**, which provides physical support and electrical connections between the chip and the outside world (like the Arduino PCB).
+
+![image alt](https://github.com/harishj123/RISC-V_Soc_Tape_out_week_6/blob/main/Week_6/images/chip.jpg?raw=true)
 
 ---
 
