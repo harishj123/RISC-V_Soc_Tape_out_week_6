@@ -1,7 +1,7 @@
 
 ---
 
-# **WEEK 6 – Day 3: IO Pin Configurations, 16-Mask CMOS Process, and Layout Extraction using Magic**
+# **WEEK 6 – Day 4: IO Pin Configurations, 16-Mask CMOS Process, and Layout Extraction using Magic**
 
 ---
 
