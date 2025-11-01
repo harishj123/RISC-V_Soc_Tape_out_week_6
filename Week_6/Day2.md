@@ -1,7 +1,7 @@
 
 ---
 
-# 🌍 **WEEK 6 – DAY 1: The Birth of Open-Source Chip Design**
+# 🌍 **WEEK 6 – DAY 2: The Birth of Open-Source Chip Design**
 
 ### 🧠 **Imagine This:**
 
