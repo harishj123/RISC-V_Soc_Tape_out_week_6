@@ -104,6 +104,3 @@ By completing Week 6, you’ve explored:
 * Real-world chip fabrication concepts from floorplan to layout
 
 ---
-
-Would you like me to add **images or diagrams references** (like “image alt”) and format it for GitHub with embedded image paths?
-```
