@@ -1,7 +1,7 @@
 
 ---
 
-# 🌆 **WEEK 6 – DAY 2: The Art of Floorplanning and Library Cells**
+# 🌆 **WEEK 6 – DAY 3: The Art of Floorplanning and Library Cells**
 
 Welcome to Day 2 of our silicon journey!
 If yesterday was about understanding how ideas become silicon (RTL → GDSII), today is about **how we arrange that silicon city** — planning where every building, road, and light pole will go before construction begins.
